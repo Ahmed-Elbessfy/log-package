@@ -1,5 +1,5 @@
 {
-  "name": "log-package",
+  "name": "log-test-package",
   "version": "1.0.0",
   "description": "logs a message to console",
   "main": "index.js",
